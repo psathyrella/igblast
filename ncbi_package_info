@@ -1,0 +1,36 @@
+PACKAGE_NAME: igblast
+PACKAGE_VERSION: 1.6.1
+PACKAGE_SIGNATURE: ICC_1503-ReleaseMT64--x86_64-unknown-linux2.6.32-gnu2.12-coremake11
+PACKAGE_CONFIG: Linux64-Centos : icc : ./c++/compilers/unix/ICC.sh --with-bin-release --with-strip --without-debug --without-pcre --with-mt --with-openmp --with-flat-makefile --with-experimental=Int8GI --without-vdb --with-gnutls=/netopt/ncbi_tools64/gnutls-3.4.0 --without-gcrypt --with-build-root-sfx=--Linux64-Centos-icc --with-flat-makefile --with-ncbi-public --without-ccache --without-caution --without-runpath --without-makefile-auto-update --with-projects=scripts/projects/igblast/project.lst --with-internal
+
+>>>>>  igblastp
+
+igblastp: 1.0.0
+ Package: igblast 1.6.1, build Oct 25 2016 15:05:43
+ Package-Config:  Linux64-Centos : icc : ./c++/compilers/unix/ICC.sh --with-bin-release --with-strip --without-debug --without-pcre --with-mt --with-openmp --with-flat-makefile --with-experimental=Int8GI --without-vdb --with-gnutls=/netopt/ncbi_tools64/gnutls-3.4.0 --without-gcrypt --with-build-root-sfx=--Linux64-Centos-icc --with-flat-makefile --with-ncbi-public --without-ccache --without-caution --without-runpath --without-makefile-auto-update --with-projects=scripts/projects/igblast/project.lst --with-internal
+ Build-Signature:  ICC_1503-ReleaseMT64--x86_64-unknown-linux2.6.32-gnu2.12-coremake11
+ Build-Date:  Oct 25 2016 15:05:43
+
+
+
+>>>>>  igblastn
+
+igblastn: 1.0.0
+ Package: igblast 1.6.1, build Oct 25 2016 15:05:43
+ Package-Config:  Linux64-Centos : icc : ./c++/compilers/unix/ICC.sh --with-bin-release --with-strip --without-debug --without-pcre --with-mt --with-openmp --with-flat-makefile --with-experimental=Int8GI --without-vdb --with-gnutls=/netopt/ncbi_tools64/gnutls-3.4.0 --without-gcrypt --with-build-root-sfx=--Linux64-Centos-icc --with-flat-makefile --with-ncbi-public --without-ccache --without-caution --without-runpath --without-makefile-auto-update --with-projects=scripts/projects/igblast/project.lst --with-internal
+ Build-Signature:  ICC_1503-ReleaseMT64--x86_64-unknown-linux2.6.32-gnu2.12-coremake11
+ Build-Date:  Oct 25 2016 15:05:43
+
+
+
+>>>>>  makeblastdb
+
+makeblastdb: 2.5.1+
+ Package: igblast 1.6.1, build Oct 25 2016 15:05:43
+ Package-Config:  Linux64-Centos : icc : ./c++/compilers/unix/ICC.sh --with-bin-release --with-strip --without-debug --without-pcre --with-mt --with-openmp --with-flat-makefile --with-experimental=Int8GI --without-vdb --with-gnutls=/netopt/ncbi_tools64/gnutls-3.4.0 --without-gcrypt --with-build-root-sfx=--Linux64-Centos-icc --with-flat-makefile --with-ncbi-public --without-ccache --without-caution --without-runpath --without-makefile-auto-update --with-projects=scripts/projects/igblast/project.lst --with-internal
+ Build-Signature:  ICC_1503-ReleaseMT64--x86_64-unknown-linux2.6.32-gnu2.12-coremake11
+ Build-Date:  Oct 25 2016 15:05:43
+
+
+
+
